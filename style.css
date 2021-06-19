@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	transition: .3s;
+}
+body{
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+title{
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.container{
+	width: 1140px;
+	display: ;
+
+}
+
+
+.home-area{
+	background-image: url(./p.jpg);
+	height: 730px;
+	background-size: cover;
+
+}
+
+.dark-overlay{
+	background-color: rgba(0, 0, 0, .7);
+	height: 730px;
+
+}
+.heading{
+ padding-top: 40px;
+text-align: center;
+
+}
+.heading h1{
+	
+	color: #4af295;
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    font-family: bold;
+    font-style: bold;
+
+}
+.heading p{
+	color: #3cfa91;
+    font-size: 0px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    font-family: bold;
+    font-style: bold;
+
+}
+.currencyInput{
+	
+
+ background-image: linear-gradient(to right,#234c16 0%,#094b4b 100%);
+
+
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 14px;
+    text-align: center;
+    padding: 12px 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    isplay: inline-block;
+    margin-left: 130px;
+    
+ 
+ }
+
+input{
+    
+   text-align: center;
+  
+}
+
+ input#tk {
+    
+    font-size: medium;
+    font-weight: bold;
+
+ 
+}
+input#dolar {
+
+	font-size: medium;
+    font-weight: bold;
+}
+input#indianRs {
+	font-size: medium;
+    font-weight: bold;
+}
+input#omaniRial {
+	font-size: medium;
+    font-weight: bold;
+}
